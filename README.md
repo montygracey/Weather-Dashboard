@@ -6,7 +6,8 @@ A full-stack web application that allows users to search for weather forecasts b
 
 **Live Site:** [Weather Dashboard](https://weather-dashboard-vvlg.onrender.com/)
 
-![Weather Dashboard Screenshot]()
+![Weather Dashboard Screenshot](![Screenshot (11)](https://github.com/user-attachments/assets/43d70cc3-da91-42c3-9b80-1eebacb01efb)
+ )
 
 
 ## Features
