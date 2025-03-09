@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "San Diego",
+    "id": "1279780e-d148-4deb-8627-79ca92542fc9"
+  },
+  {
+    "name": "atlanta",
+    "id": "0491dd94-20ac-4fcb-a6b3-c3f30004da14"
+  },
+  {
+    "name": "portland",
+    "id": "b6507093-fe93-4896-8e61-c41c7e26acd8"
+  },
+  {
+    "name": "tokyo",
+    "id": "a7b70e59-e6cf-474f-9230-a25173ea2584"
+  },
+  {
+    "name": "austin",
+    "id": "8ee7a77d-3122-4388-baf3-cfd081201a74"
+  },
+  {
+    "name": "santa cruz",
+    "id": "99929d04-79a5-47ae-90d0-23df4b38137d"
+  }
+]
